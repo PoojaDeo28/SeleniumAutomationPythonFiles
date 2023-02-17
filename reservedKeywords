@@ -1,0 +1,4 @@
+import keywords
+keyword.kwlist
+a=10
+id(a)
